@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name ADAU1701RasPi-rescue)(type Legacy)(uri ${KIPRJMOD}/ADAU1701RasPi-rescue.lib)(options "")(descr ""))
+  (lib (name PCM5242Master-rescue)(type Legacy)(uri C:/Users/Оксана/Downloads/PCM5242APH_KiCADProject/PCM5242APH_KiCADProject/PCM5242Master-rescue.lib)(options "")(descr ""))
+  (lib (name Streamer_ADAU1452_AD1934-rescue)(type Legacy)(uri C:/Users/Оксана/Downloads/Streamer_ADAU1452_AD1934/Streamer_PCM5242/Streamer_PCM5242/Streamer_ADAU1452_AD1934-rescue.lib)(options "")(descr ""))
+  (lib (name RDC1-0034-rescue)(type Legacy)(uri C:/Users/Оксана/Downloads/DOC002996598/RDC1-0034-rescue.lib)(options "")(descr ""))
+  (lib (name RDC2-0034v2-rescue)(type Legacy)(uri C:/Users/Оксана/OneDrive/Документы/RDC2-0034v3/RDC2-0034v2-rescue.lib)(options "")(descr ""))
+  (lib (name Streamer_ADAU1701-rescue)(type Legacy)(uri ${KIPRJMOD}/Streamer_ADAU1701-rescue.lib)(options "")(descr ""))
+)
